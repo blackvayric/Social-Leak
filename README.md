@@ -1,5 +1,7 @@
 # Social Leak
 
+![Social Leak Logo](Social Leak Logo.ng)
+
 Find out who you hate 
 
 ## Project Structure 📁
