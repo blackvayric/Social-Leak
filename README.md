@@ -1,6 +1,6 @@
 # Social Leak
 
-![Social Leak Logo](Social Leak Logo.png)
+![Social Leak Logo](docs/Social Leak Logo.png)
 
 Find out who you hate 
 
