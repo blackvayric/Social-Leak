@@ -2,7 +2,7 @@
 
 ![Social Leak Logo](docs/SocialLeakLogo.png)
 
-Find out who you hate 
+###Find out who you hate 
 
 ## Project Structure 📁
 
