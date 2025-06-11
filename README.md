@@ -1,6 +1,6 @@
 # Social Leak
 
-![Social Leak Logo](Social Leak Logo.ng)
+![Social Leak Logo](Social Leak Logo.png)
 
 Find out who you hate 
 
@@ -72,6 +72,14 @@ python main.py
 - Scanning speed depends on internet connection
 - Some platforms may rate limit requests
 - Results may not always be 100% accurate
+
+## Contact Us 📞
+
+### 📧 Email
+[blackassistance@proton.me](mailto:blackassistance@proton.me)
+
+### 🔗 Linktree
+[Visit our Linktree](https://linktr.ee/blackoutproj)
 
 ## Credits 👥
 
