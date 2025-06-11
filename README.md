@@ -73,14 +73,6 @@ python main.py
 - Some platforms may rate limit requests
 - Results may not always be 100% accurate
 
-## Contact Us 📞
-
-### 📧 Email
-[blackassistance@proton.me](mailto:blackassistance@proton.me)
-
-### 🔗 Linktree
-[Visit our Linktree](https://linktr.ee/blackoutproj)
-
 ## Credits 👥
 
 This project was developed by:
