@@ -11,7 +11,6 @@ Find out who you hate
 │   └── main.py            # Main program file
 │
 ├── 📁 docs/                # Documentation
-│   ├── README.md          # This file
 │   ├── LICENSE            # License information
 │   └── requirements.txt   # Python dependencies
 │
