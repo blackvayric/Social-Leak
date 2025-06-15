@@ -76,7 +76,7 @@ python main.py
 
 This project was developed by:
 - Nypher
-- Vaiyric
+- Vayric
 - Blackout Project
 
 📧 blackassistance@proton.me
