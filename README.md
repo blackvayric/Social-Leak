@@ -73,10 +73,6 @@ python main.py
 - Results may not always be 100% accurate
 
 ## Credits 👥
-
-This project was developed by:
-- Nypher
-- Vayric
 - Blackout Project
 
 📧 blackassistance@proton.me
